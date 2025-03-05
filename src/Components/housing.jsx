@@ -54,7 +54,7 @@ function Housing() {
           <img
             src={AA}
             className="card-img-top"
-            alt="..."
+          
           />
           <span className="text-muted">
             2 <i className="bi bi-door-closed" /> 3 <i className="bi bi-hdmi" />
