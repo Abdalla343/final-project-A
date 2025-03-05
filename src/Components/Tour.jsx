@@ -176,7 +176,7 @@ function Tour() {
         <img src="https://source.unsplash.com/600x400/?adventure" alt="" />
         <div className="card-body">
           <h5>Jeep Adventure – A new attraction for tourists</h5>
-          <p>Experience off-road thrill in exotic locations.</p>
+          <p>Experience off-road thrill in exotic locations</p>
         </div>
       </div>
     </div>
