@@ -24,7 +24,7 @@ function NavBar() {
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link text-white" to="">
+              <NavLink className="nav-link text-white" to="/tour">
                 Tourist places
               </NavLink>
             </li>

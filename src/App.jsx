@@ -5,6 +5,7 @@ import Login from "./Components/Login";
 import Donation from "./Components/Donation";
 import Profile from "./Components/Profile";
 import Housing from "./Components/housing";
+import Tour from "./Components/Tour";
 function App() {
   return (
     <>
@@ -14,6 +15,7 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/Donation" element={<Donation />} />
         <Route path="/Profile" element={<Profile />} />
+        <Route path="/tour" element={<Tour />} />
         <Route path="/housing" element={<Housing />} />
         {/* <Route path="/Login" element={<Login />} /> AA */} 
       </Routes>
