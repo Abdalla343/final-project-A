@@ -39,7 +39,7 @@ function Housing() {
       <option value={2}>2</option>
       <option value={3}>3</option>
     </select>
-    <label htmlFor="floatingSelectGrid">عدد السُرُر</label>
+    <label htmlFor="floatingSelectGrid ">عدد السُرُر</label>
   </div>
 </div>
 <>
