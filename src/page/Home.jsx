@@ -90,7 +90,7 @@ function Home() {
           <h2 className="text-center mb-4">Contact Us</h2>
           <form>
             <div className="mb-3">
-              <label htmlFor="name" className="form-label">Name</label>
+              <label htmlFor="name" className="form-label">Namee</label>
               <input type="text" className="form-control" id="name" placeholder="Your Name" />
             </div>
             <div className="mb-3">
